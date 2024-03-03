@@ -1,2 +1,2 @@
 version = 1.4
-message= This part is for promotions you can dm me and can do promotions here
+message= Hi there i found some major fix in this tool. if you want to support me you can dm here @celestial_being
