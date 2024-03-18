@@ -1,2 +1,2 @@
 version = 1.4
-message= Hi there i found some major fix in this tool. if you want to support me you can dm here @celestial_being
+message= Hi there version 1.5 is live and it is going to upload here https://github.com/celestialsbeings/Private-Dork-Searcher. This one is going to close soon. 
