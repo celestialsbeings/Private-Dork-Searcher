@@ -1,2 +1,2 @@
-version = 1.4
+version = 1.5
 message= Hi there version 1.5 is live and it is going to upload here https://github.com/celestialsbeings/Private-Dork-Searcher. This one is going to close soon. 
