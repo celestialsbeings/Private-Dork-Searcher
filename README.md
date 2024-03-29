@@ -21,7 +21,7 @@ Everone first question should be why we need this tool and why i waste my time t
 ### For Windows - 
 * Just double click and run and read the instruction written on terminal.
 ### For Linux - 
-* Use wine tool for running windows for this tool on linux.
+* Use wine tool for running in linux .
 
 ## Problem -
 Problem is that to make this tool alive i need update it regularly and it can't be possible unitl someone pay me to do this. That's why i make this tool private and sell it to people who give me money. So, here is my problem. I will upload the source code soon when i am bored with this.
