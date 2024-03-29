@@ -1,2 +1,2 @@
-version = 1.6
+version = 1.7
 message= Hi there i made version 1.6 and i skipped v1.5 becuase there not much stuff to update. Also after sometime this tool is going to private because need money to work on this tool.
