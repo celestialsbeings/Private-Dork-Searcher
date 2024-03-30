@@ -1,2 +1,2 @@
 version = 1.6
-message= Warning If you are using this tool and can't add any urls to sql dumper just wait for next update. I am fixing this code i found a major bug.
+message= Everyone go and download your update v1.7 dork searcher from here quick this is going to be closed.
