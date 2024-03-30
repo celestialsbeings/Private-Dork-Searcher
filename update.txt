@@ -1,2 +1,2 @@
 version = 1.6
-message= Everyone go and download your update v1.7 dork searcher from here quick this is going to be closed.
+message= Everyone go and download your update v1.7 dork searcher from here https://github.com/celestialsbeings/Private-Dork-Searcher quick this is going to be closed.
