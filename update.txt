@@ -1,2 +1,2 @@
 version = 1.6
-message= Hi there i made version 1.6 and i skipped v1.5 becuase there not much stuff to update. Also after sometime this tool is going to private because need money to work on this tool.
+message= Warning If you are using this tool and can't add any urls to sql dumper just wait for next update. I am fixing this code i found a major bug.
