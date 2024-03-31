@@ -1,2 +1,2 @@
 version = 1.6
-message = Warning your dork searcher is going to close download updated one from here https://github.com/celestialsbeings/Private-Dork-Searcher/blob/main/Dork%20Searcher%20V1.7.exe
+message = Warning i am closing all old dork searcher download v1.7 from here https://github.com/celestialsbeings/Private-Dork-Searcher/blob/main/Dork%20Searcher%20V1.7.exe
