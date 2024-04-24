@@ -1,2 +1,2 @@
-version = 1.7
-message = Warning dork searcher v1.6 is turned off download dork searcher v1.7 from here https://github.com/celestialsbeings/Private-Dork-Searcher/blob/main/Dork%20Searcher%20V1.7.exe
+version = 1.8
+message = Warning dork searcher v1.7 is turned off download dork searcher v1.8 from here https://github.com/celestialsbeings/Private-Dork-Searcher/blob/main/Dork%20Searcher%20V1.7.exe
