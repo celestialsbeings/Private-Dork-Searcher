@@ -1,2 +1,2 @@
-version = 1.8
+version = 1.7
 message = Dork Serarcher 1.8 id private if you want to purchase dm here @celestial_being
